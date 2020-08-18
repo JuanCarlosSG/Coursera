@@ -1,0 +1,56 @@
+div{
+  background-color: #838383;
+  padding: 10px;
+  width: 400px;
+  margin: 10px;
+  float: left;
+  border-style: solid;
+  border-width: 1px;
+}
+
+h1{
+  font-family: 'Merriweather';
+}
+
+h3 {
+  margin: 0 20px;
+}
+
+p{
+  font-family: 'Montserrat';
+  float: inherit;
+  color: #050505;
+}
+
+.Chicken{
+    background-color: #fccbcb;
+    width: 100px;
+    position: relative;
+    left: 279px;
+    bottom: 21px;
+    border-style: solid;
+    border-width: 1px;
+    height: 10px;
+}
+
+.Beef{
+  background-color: #d9adad;
+  width: 100px;
+  position: relative;
+  left: 279px;
+  bottom: 21px;
+  border-style: solid;
+  border-width: 1px;
+  height: 10px;
+}
+
+.Sushi{
+  background-color: #fccbcb;
+  width: 100px;
+  position: relative;
+  left: 279px;
+  bottom: 21px;
+  border-style: solid;
+  border-width: 1px;
+  height: 10px;
+}
